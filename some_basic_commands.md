@@ -13,6 +13,7 @@
 | images | List images |
 | pull | Pull an image or a repository from a registry |
 | push | Push an image or a repository to a registry |
+| commit | Create a new image from a container’s changes |
 
 
 let's go...
