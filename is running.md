@@ -1,8 +1,8 @@
-Si docker esta corriendo y es funcional, al ejecutar:
+If docker run right the next command  
 ```sh
 $ docker run --rm hello-world
 ```
-debemos obtener lo siguiente:
+return something like that:
 
 Hello from Docker!
 This message shows that your installation appears to be working correctly.
