@@ -1,7 +1,7 @@
-Si docker esta corriendo y es funcional, al ejecutar lo siguiente 
-,,,
+Si docker esta corriendo y es funcional, al ejecutar:
+```
 docker run --rm hello-world
-,,,
+```
 debemos obtener lo siguiente:
 
 Hello from Docker!
