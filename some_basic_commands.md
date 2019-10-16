@@ -1,7 +1,8 @@
-ocker run – Runs a command in a new container.
+docker run – Runs a command in a new container.
 
-# docker run --rm hello-world
-# docker run -it ubuntu
+docker run --rm hello-world
+docker run -it ubuntu
+
 
 docker start – Starts one or more stopped containers
 
